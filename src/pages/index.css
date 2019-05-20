@@ -1,0 +1,7 @@
+[data-attribute="true"] {
+    color: green;
+}
+
+[data-attribute="false"] {
+    color: red;
+}
