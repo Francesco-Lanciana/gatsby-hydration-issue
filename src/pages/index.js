@@ -8,7 +8,7 @@ const IndexPage = () => {
 
     return (
         <div data-attribute={attributeValue}>
-            Hey
+            The attribute value is: {attributeValue ? "true" : "false"}
         </div>
     )
 }
